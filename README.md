@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **either-end programming, graphic design**
 
-- 📫 How to reach me **najmin_22011573@utp.edu.my**
+- 📫 Reach me at **najmin_22011573@utp.edu.my**
 
-- ⚡ Fun fact **5 years of my programming stuffs only came from my shitty broken Thinkpad laptop.**
+- ⚡ Fun fact : **5 years of my programming stuffs only came from my shitty broken Thinkpad laptop.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
