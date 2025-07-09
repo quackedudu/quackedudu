@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Najmin Faiz bin Saiful Izham</h1>
+<h1 align="center">Hello 👋, I'm Najmin Faiz</h1>
 <h3 align="center">A frontend and (possibly) a backend programmer.</h3>
 
 - 🔭 I'm currently working on [MARRYBROWN Database](https://github.com/quackedudu/TEB1103_DIM_MARRYBROWN)
