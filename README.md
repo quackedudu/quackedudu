@@ -7,8 +7,6 @@
 
 - 👯 I'm actively updating [Data Structure & Algorithms](https://github.com/quackedudu/TEB1113_DSA_22011573)
 
-- 🤝 I’m looking for help to organize [OMC_Repo_2024](https://github.com/quackedudu/OMC_Repo_2024)
-
 - 👨‍💻 All of my projects are available at [https://github.com/quackedudu](https://github.com/quackedudu)
 
 - 📝 I regularly upload videos on [https://www.youtube.com/@itikgoyeng](https://www.youtube.com/@itikgoyeng)
