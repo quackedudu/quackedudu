@@ -11,9 +11,9 @@
 
 - 📝 I regularly upload videos on [https://www.youtube.com/@itikgoyeng](https://www.youtube.com/@itikgoyeng)
 
-- 💬 Ask me about **either-end programming, graphic design**
-
 - 📫 Reach me at **najmin_22011573@utp.edu.my**
+
+- 💬 Ask me about **either-end programming, graphic design**
 
 - ⚡ Fun fact : **5 years of my programming stuffs only came from my shitty broken Thinkpad laptop.**
 
