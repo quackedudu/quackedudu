@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Najmin Faiz</h1>
 <h3 align="center">A frontend and (possibly) a backend programmer.</h3>
 
-- 🔭 I'm currently working on [MARRYBROWN Database](https://github.com/quackedudu/TEB1103_DIM_MARRYBROWN)
-
 - 🌱 I’m currently learning **SQL, Oracle**
+
+- 🔭 I'm currently working on [MARRYBROWN Database](https://github.com/quackedudu/TEB1103_DIM_MARRYBROWN)
 
 - 👯 I'm actively updating [Data Structure & Algorithms](https://github.com/quackedudu/TEB1113_DSA_22011573)
 
@@ -11,9 +11,9 @@
 
 - 📝 I regularly upload videos on [https://www.youtube.com/@itikgoyeng](https://www.youtube.com/@itikgoyeng)
 
-- 📫 Reach me at **najmin_22011573@utp.edu.my**
+- 📫 Reach me at **najmin_22011573@utp.edu.my** or **najmin.5aktif@gmail.com**
 
-- 💬 Ask me about **either-end programming, graphic design**
+- 💬 Ask me about **either-end programming, graphic design, video editing**
 
 - ⚡ Fun fact : **5 years of my programming stuffs only came from my shitty broken Thinkpad laptop.**
 
