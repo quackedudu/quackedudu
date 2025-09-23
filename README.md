@@ -1,7 +1,7 @@
-<h1 align="center">Hello 👋, I'm Najmin Faiz</h1>
-<h3 align="center">A frontend and (possibly) a backend programmer.</h3>
+<h1 align="center">Welcome to my profile.</h1>
+<h3 align="center">A frontend and (hopefully soon) a backend programmer.</h3>
 
-- 🌱 I’m currently learning **SQL, Oracle**
+- 🌱 I’m currently learning **Web development, HTML and React**
 
 - 🔭 I'm currently working on [MARRYBROWN Database](https://github.com/quackedudu/TEB1103_DIM_MARRYBROWN)
 
@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/quackedudu](https://github.com/quackedudu)
 
-- 📝 I regularly upload videos on [https://www.youtube.com/@itikgoyeng](https://www.youtube.com/@itikgoyeng)
+- 📝 I regularly upload videos on [https://www.youtube.com/@itikgoyeng](https://www.youtube.com/@itikgoyeng) (not relatable)
 
-- 📫 Reach me at **najmin_22011573@utp.edu.my** or **najmin.5aktif@gmail.com**
+- 📫 Reach me at **najmin_22011573@utp.edu.my** (education e-mail) or **najmin.5aktif@gmail.com** (personal e-mail)
 
-- 💬 Ask me about **either-end programming, graphic design, video editing**
+- 💬 Ask me about **either-end programming, graphic design, video editing, game development**
 
-- ⚡ Fun fact : **5 years of my programming stuffs only came from my shitty broken Thinkpad laptop.**
+- ⚡ Additional info : **5 years of my programming stuffs only came from my broken Thinkpad laptop.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
