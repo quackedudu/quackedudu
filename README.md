@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web development, HTML and React**
 
-- 🔭 I'm currently working on [MARRYBROWN Database](https://github.com/quackedudu/TEB1103_DIM_MARRYBROWN)
+- 🔭 I'm currently working on [Travigo.com (Bootleg Hotel Booking System)]([https://github.com/quackedudu/TEB1103_DIM_MARRYBROWN](https://github.com/quackedudu/Travigo.com-Bootleg_Hotel_BookingSystem))
 
 - 👯 I'm actively updating [Data Structure & Algorithms](https://github.com/quackedudu/TEB1113_DSA_22011573)
 
@@ -14,8 +14,6 @@
 - 📫 Reach me at **najmin_22011573@utp.edu.my** (education e-mail) or **najmin.5aktif@gmail.com** (personal e-mail)
 
 - 💬 Ask me about **either-end programming, graphic design, video editing, game development**
-
-- ⚡ Additional info : **5 years of my programming stuffs only came from my broken Thinkpad laptop.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
