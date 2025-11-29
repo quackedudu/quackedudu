@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web development, HTML and React**
 
-- 🔭 I'm currently working on [Travigo.com (Bootleg Hotel Booking System)](https://github.com/quackedudu/Travigo.com-Bootleg_Hotel_BookingSystem)
+- 🔭 I'm currently working on [CookPals - Recipes On-the-Go](project pending)
 
 - 👯 I'm actively updating [Data Structure & Algorithms](https://github.com/quackedudu/TEB1113_DSA_22011573)
 
