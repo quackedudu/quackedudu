@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web development, HTML and React**
 
-- 🔭 I'm currently working on [CookPals - Recipes On-the-Go](project pending)
+- 🔭 I'm currently working on [CookPals - Recipes On-the-Go] (project pending)
 
 - 👯 I'm actively updating [Data Structure & Algorithms](https://github.com/quackedudu/TEB1113_DSA_22011573)
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly upload videos on [https://www.youtube.com/@itikgoyeng](https://www.youtube.com/@itikgoyeng) (not relatable)
 
-- 📫 Reach me at **najmin_22011573@utp.edu.my** (education e-mail) or **najmin.5aktif@gmail.com** (personal e-mail)
+- 📫 Reach me at **najmin_22011573@utp.edu.my** (education email) or **najmin.5aktif@gmail.com** (personal email)
 
 - 💬 Ask me about **either-end programming, graphic design, video editing, game development**
 
