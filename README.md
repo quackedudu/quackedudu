@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web development, HTML and React**
 
-- 👯 I'm actively updating [Data Structure & Algorithms](https://github.com/quackedudu/TEB1113_DSA_22011573)
+- 👯 I'm actively updating [Data Science](https://github.com/quackedudu/DS_TEB2043)
 
 - 👨‍💻 All of my projects are available at [https://github.com/quackedudu](https://github.com/quackedudu)
 
