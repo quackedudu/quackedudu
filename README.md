@@ -2,10 +2,10 @@
 <h3 align="center">A frontend and (hopefully soon) a backend programmer.</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=quackedudu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=quackedudu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quackedudu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>>
+  <img src="https://streak-stats.demolab.com?user=quackedudu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="135" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quackedudu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="135" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quackedudu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="135" alt="languages graph" />
+</div>
 
 - 🌱 I’m currently learning **R Programming, Data Science and Embedded Systems (Arduino)**
 
