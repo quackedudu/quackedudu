@@ -55,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="45" alt="godot" />
 </div>
 
-### 🎮 Graphic Designs & Videography
+### 👨‍💻 Graphic Designs & Videography
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="45" alt="photoshop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="45" alt="illustrator" />
