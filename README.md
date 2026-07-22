@@ -5,7 +5,7 @@
   <img src="https://streak-stats.demolab.com?user=quackedudu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="120" alt="streak graph" />
 </div>
 
-- 🌱 I’m currently learning **R Programming, Data Science and Embedded Systems (Arduino)**
+- 🌱 I’m currently **doing an internship**
 
 - 👯 I'm actively updating [Data Science](https://github.com/quackedudu/DS_TEB2043)
 
